@@ -51,7 +51,7 @@ Results mirror SPSS/AMOS findings, confirming robustness of UTAUT3D conclusions.
 Open the notebook in Google Colab
 .
 
-Set INPUT_METHOD (upload, gdrive, or local) in the first cell.
+Set INPUT_METHOD (upload, gdrive, or local) in the first cells.
 
 Run all cells to replicate analyses.
 
